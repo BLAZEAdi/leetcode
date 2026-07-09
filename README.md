@@ -17,9 +17,9 @@ progress and a personal reference for patterns I've already solved.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 9 |
-| 🟡 Medium  | 6 |
+| 🟡 Medium  | 7 |
 | 🔴 Hard    | 0 |
-| **Total**  | **15** |
+| **Total**  | **16** |
 
 <!-- STATS:END -->
 
