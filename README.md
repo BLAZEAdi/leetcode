@@ -16,10 +16,10 @@ progress and a personal reference for patterns I've already solved.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 11 |
+| 🟢 Easy    | 12 |
 | 🟡 Medium  | 7 |
 | 🔴 Hard    | 0 |
-| **Total**  | **18** |
+| **Total**  | **19** |
 
 <!-- STATS:END -->
 
