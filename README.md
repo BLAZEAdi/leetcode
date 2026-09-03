@@ -12,14 +12,14 @@ progress and a personal reference for patterns I've already solved.
 
 <!-- STATS:START -->
 
-**Last updated:** 2026-07-15
+**Last updated:** 2026-09-03
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 10 |
+| 🟢 Easy    | 11 |
 | 🟡 Medium  | 7 |
 | 🔴 Hard    | 0 |
-| **Total**  | **17** |
+| **Total**  | **18** |
 
 <!-- STATS:END -->
 
